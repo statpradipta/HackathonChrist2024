@@ -1,0 +1,1001 @@
+Patient_Name,Age,Weight_kg,Height_cm,Blood_Pressure_mmHg,Disease
+Ramesh Patel,10,29,93,102,Kidney Disease
+Sunita Pandey,12,21,103,152,Hypertension
+Santosh Kulkarni,11,19,112,154,Thyroid Disorder
+Swati Verma,32,80,152,95,Tuberculosis
+Sudha Pandey,30,57,177,95,Hypertension
+Arun Iyer,88,70,141,99,Kidney Disease
+Suman Mehta,51,72,158,155,Cardiovascular Disease
+Kiran Desai,45,71,150,109,Malaria
+Santosh Yadav,7,44,126,105,Liver Disease
+Kavita Banerjee,42,85,154,153,Cardiovascular Disease
+Vikas Mehta,12,30,133,106,Hypertension
+Kavita Malhotra,59,85,167,159,Tuberculosis
+Anjali Rao,54,84,170,103,Liver Disease
+Ravi Yadav,4,32,110,113,Diabetes
+Indira Nath,40,73,174,123,Malaria
+Shankar Gupta,30,80,163,116,Hypertension
+Vijay Menon,46,77,162,91,Asthma
+Ajay Chopra,23,74,177,136,Hypertension
+Indira Reddy,33,65,178,145,Thyroid Disorder
+Rakesh Mishra,77,73,148,147,Malaria
+Indira Menon,25,55,173,148,Dengue
+Indira Gupta,56,76,175,99,Malaria
+Pooja Das,40,83,150,94,Diabetes
+Arun Desai,84,74,169,126,Respiratory Infection
+Sudha Kumar,64,71,142,106,Tuberculosis
+Meena Chatterjee,58,75,158,127,Hypertension
+Ravi Kumar,89,64,157,101,Asthma
+Rajesh Gupta,18,42,148,96,Dengue
+Rajesh Mehta,11,40,130,120,Diabetes
+Anjali Reddy,49,73,170,111,Kidney Disease
+Sanjay Gupta,24,77,175,122,Diabetes
+Vikas Malhotra,63,51,160,116,Cardiovascular Disease
+Alok Rana,32,72,160,104,Tuberculosis
+Anjali Patel,85,71,140,142,Tuberculosis
+Rakesh Kohli,48,85,162,104,Malaria
+Arun Desai,78,48,152,99,Kidney Disease
+Anita Chatterjee,79,54,168,104,Cardiovascular Disease
+Deepak Aggarwal,45,75,180,113,Asthma
+Nisha Patel,31,60,175,153,Liver Disease
+Alok Bose,10,36,127,147,Liver Disease
+Ajay Bose,21,75,158,130,Respiratory Infection
+Seema Menon,42,66,151,135,Tuberculosis
+Rakesh Das,75,61,141,157,Malaria
+Santosh Desai,60,75,162,115,Malaria
+Suman Kulkarni,35,84,156,110,Kidney Disease
+Abhinav Saxena,45,54,159,150,Malaria
+Ravi Verma,41,85,179,113,Diabetes
+Ramesh Bose,31,76,165,151,Diabetes
+Swati Patel,53,54,175,107,Asthma
+Amit Rana,80,66,142,92,Dengue
+Preeti Iyer,25,63,156,92,Cardiovascular Disease
+Sandeep Verma,1,19,135,101,Tuberculosis
+Arun Nath,61,64,145,143,Diabetes
+Ajay Rana,23,84,173,150,Liver Disease
+Ramesh Rao,84,48,154,103,Thyroid Disorder
+Rajesh Gupta,17,46,144,120,Anemia
+Neha Malhotra,20,84,164,95,Liver Disease
+Preeti Pandey,59,82,158,121,Malaria
+Ajay Nair,57,51,172,134,Diabetes
+Pooja Rao,49,70,155,137,Dengue
+Sunita Mishra,71,61,145,101,Thyroid Disorder
+Kiran Rao,18,46,164,99,Respiratory Infection
+Santosh Sharma,12,16,102,124,Asthma
+Preeti Yadav,65,49,156,122,Liver Disease
+Amit Chatterjee,15,59,168,127,Anemia
+Alok Das,12,21,119,94,Dengue
+Swati Sharma,34,56,165,107,Asthma
+Nisha Reddy,15,49,149,155,Respiratory Infection
+Sunita Desai,73,71,163,152,Asthma
+Kiran Aggarwal,34,80,176,146,Thyroid Disorder
+Lakshmi Iyer,84,75,155,122,Liver Disease
+Pooja Kumar,37,83,161,139,Hypertension
+Santosh Verma,6,20,139,93,Respiratory Infection
+Rajesh Mishra,84,45,170,92,Malaria
+Alok Chopra,8,38,100,100,Malaria
+Sudha Mehta,28,80,152,102,Cardiovascular Disease
+Ramesh Mehta,67,65,170,150,Asthma
+Ajay Rao,50,64,155,141,Liver Disease
+Pooja Mishra,63,71,142,103,Respiratory Infection
+Kavita Nath,5,17,123,106,Malaria
+Amit Rao,6,34,97,157,Cardiovascular Disease
+Manoj Kohli,83,58,147,97,Diabetes
+Vikas Kulkarni,72,56,167,102,Diabetes
+Swati Nair,23,60,164,152,Asthma
+Pooja Yadav,77,64,164,101,Kidney Disease
+Sudha Sharma,54,78,165,110,Malaria
+Lakshmi Nair,2,39,107,156,Asthma
+Rajesh Verma,10,40,111,127,Respiratory Infection
+Swati Chopra,83,57,168,134,Malaria
+Suman Sharma,34,64,155,146,Dengue
+Indira Kulkarni,61,45,145,98,Hypertension
+Vikas Reddy,31,51,160,96,Dengue
+Naveen Aggarwal,85,61,154,108,Kidney Disease
+Sanjay Gupta,83,60,163,99,Liver Disease
+Seema Menon,76,59,150,93,Anemia
+Bhavana Kumar,12,28,132,151,Thyroid Disorder
+Manoj Prasad,22,61,151,124,Kidney Disease
+Meena Aggarwal,53,69,161,137,Diabetes
+Meena Bose,74,58,159,133,Hypertension
+Nisha Chatterjee,26,63,151,155,Tuberculosis
+Priya Malhotra,8,39,112,150,Liver Disease
+Lakshmi Sharma,23,68,167,99,Dengue
+Pooja Patel,71,73,169,122,Cardiovascular Disease
+Priya Chatterjee,2,28,108,128,Asthma
+Anita Bose,64,74,166,121,Malaria
+Geeta Patel,6,25,111,107,Dengue
+Rohit Mishra,39,73,180,130,Anemia
+Abhinav Desai,40,55,175,107,Hypertension
+Rajesh Patel,65,68,168,145,Respiratory Infection
+Kiran Singh,57,53,172,105,Hypertension
+Nisha Nair,84,65,159,130,Liver Disease
+Sandeep Bose,45,59,168,139,Malaria
+Indira Bose,56,78,173,106,Thyroid Disorder
+Seema Patel,86,63,144,156,Thyroid Disorder
+Seema Prasad,39,77,166,90,Cardiovascular Disease
+Sunita Gupta,81,62,159,90,Hypertension
+Neha Kulkarni,9,34,138,152,Kidney Disease
+Ravi Verma,70,63,165,160,Kidney Disease
+Abhinav Gupta,28,53,171,140,Respiratory Infection
+Manoj Gupta,49,56,171,122,Diabetes
+Shankar Mehta,22,56,173,93,Hypertension
+Priya Chopra,4,20,130,137,Asthma
+Abhinav Bose,50,81,171,138,Malaria
+Ramesh Kulkarni,57,70,159,157,Malaria
+Suman Mishra,20,62,150,122,Cardiovascular Disease
+Kiran Bose,9,33,126,134,Kidney Disease
+Vijay Joshi,48,80,167,112,Kidney Disease
+Deepak Pandey,89,68,161,93,Asthma
+Arun Aggarwal,56,69,160,97,Diabetes
+Rajesh Verma,63,52,167,140,Kidney Disease
+Ajay Saxena,5,16,113,119,Malaria
+Kiran Saxena,15,57,161,119,Tuberculosis
+Geeta Gupta,76,68,149,107,Liver Disease
+Indira Chatterjee,40,74,165,115,Malaria
+Deepak Kohli,31,62,157,118,Cardiovascular Disease
+Lakshmi Banerjee,43,70,178,149,Malaria
+Naveen Rao,77,76,146,140,Thyroid Disorder
+Santosh Das,35,74,172,123,Anemia
+Abhinav Iyer,85,68,152,113,Cardiovascular Disease
+Geeta Saxena,33,74,162,139,Anemia
+Preeti Verma,50,72,152,151,Hypertension
+Sanjay Iyer,56,68,178,115,Thyroid Disorder
+Anjali Nair,9,42,91,146,Cardiovascular Disease
+Shankar Reddy,48,81,156,137,Tuberculosis
+Vikas Chopra,35,54,178,120,Thyroid Disorder
+Bhavana Prasad,62,79,150,141,Respiratory Infection
+Meena Pandey,15,60,162,139,Respiratory Infection
+Lakshmi Aggarwal,28,62,162,148,Asthma
+Preeti Desai,25,57,164,90,Liver Disease
+Arjun Malhotra,72,54,147,123,Cardiovascular Disease
+Sanjay Patel,47,70,151,125,Anemia
+Anjali Banerjee,45,78,180,150,Liver Disease
+Swati Bose,19,62,168,135,Cardiovascular Disease
+Arun Singh,24,73,179,143,Cardiovascular Disease
+Arjun Singh,57,74,170,160,Hypertension
+Seema Patel,73,61,160,150,Malaria
+Suman Bose,70,50,149,98,Hypertension
+Kiran Kohli,43,78,155,111,Diabetes
+Deepak Banerjee,75,53,161,139,Tuberculosis
+Vijay Desai,57,50,176,154,Cardiovascular Disease
+Sudha Joshi,64,74,152,97,Asthma
+Santosh Chatterjee,9,28,113,93,Dengue
+Alok Iyer,44,63,152,121,Liver Disease
+Arun Menon,76,56,162,146,Tuberculosis
+Lakshmi Iyer,65,54,153,113,Malaria
+Priya Rao,61,72,142,100,Cardiovascular Disease
+Rajesh Desai,36,55,152,101,Anemia
+Amit Prasad,64,61,165,154,Respiratory Infection
+Preeti Pandey,10,41,121,157,Kidney Disease
+Vikas Mehta,66,61,145,129,Dengue
+Abhinav Verma,52,83,180,127,Asthma
+Suman Mishra,70,62,163,95,Liver Disease
+Abhinav Rana,56,80,151,135,Asthma
+Swati Verma,65,63,157,102,Dengue
+Sanjay Desai,30,73,162,158,Cardiovascular Disease
+Lakshmi Joshi,29,52,170,98,Hypertension
+Neha Rana,80,55,159,155,Liver Disease
+Sunita Pillai,69,73,162,151,Diabetes
+Sandeep Das,21,54,155,109,Liver Disease
+Pooja Reddy,54,59,176,123,Kidney Disease
+Kiran Bose,85,45,164,126,Liver Disease
+Naveen Gupta,54,84,169,131,Anemia
+Lakshmi Banerjee,63,78,148,127,Diabetes
+Naveen Sharma,44,70,178,133,Hypertension
+Deepak Banerjee,67,76,168,109,Tuberculosis
+Swati Gupta,35,77,158,124,Thyroid Disorder
+Seema Menon,81,66,168,99,Thyroid Disorder
+Ajay Mehta,24,83,169,116,Respiratory Infection
+Preeti Menon,36,62,176,126,Diabetes
+Ajay Malhotra,16,63,138,93,Respiratory Infection
+Ajay Prasad,73,48,164,124,Liver Disease
+Sunita Reddy,77,51,140,123,Dengue
+Suman Verma,69,80,157,137,Liver Disease
+Sanjay Saxena,63,76,147,91,Dengue
+Arjun Desai,60,71,160,142,Respiratory Infection
+Indira Pillai,34,70,159,110,Malaria
+Arun Menon,61,65,143,112,Thyroid Disorder
+Amit Iyer,24,53,170,110,Liver Disease
+Anita Joshi,42,55,171,122,Tuberculosis
+Kiran Malhotra,16,55,165,126,Respiratory Infection
+Kiran Singh,72,79,144,150,Tuberculosis
+Santosh Saxena,56,73,156,101,Kidney Disease
+Swati Mishra,60,74,163,106,Diabetes
+Pooja Pandey,90,50,141,156,Anemia
+Seema Chopra,58,81,165,155,Anemia
+Lakshmi Mishra,61,73,150,106,Asthma
+Manoj Verma,22,77,152,92,Tuberculosis
+Swati Gupta,59,62,180,112,Diabetes
+Alok Verma,43,80,151,145,Malaria
+Rakesh Nair,3,24,118,126,Malaria
+Amit Pillai,26,51,156,138,Hypertension
+Ravi Chatterjee,56,54,153,101,Asthma
+Rakesh Desai,38,75,163,127,Cardiovascular Disease
+Amit Reddy,4,20,95,120,Thyroid Disorder
+Lakshmi Banerjee,23,70,157,101,Hypertension
+Shankar Prasad,29,81,170,150,Hypertension
+Santosh Pillai,20,73,152,131,Kidney Disease
+Ramesh Chopra,90,58,158,158,Anemia
+Alok Mehta,68,65,147,155,Respiratory Infection
+Shankar Chopra,64,71,169,157,Anemia
+Lakshmi Prasad,14,39,140,129,Respiratory Infection
+Alok Chopra,17,44,156,110,Liver Disease
+Anita Bose,82,65,148,156,Thyroid Disorder
+Ramesh Kumar,44,81,151,116,Anemia
+Indira Pillai,63,60,145,124,Thyroid Disorder
+Naveen Pillai,25,83,169,104,Tuberculosis
+Swati Yadav,1,28,120,99,Asthma
+Pooja Yadav,52,85,168,105,Hypertension
+Priya Pandey,21,80,157,97,Asthma
+Amit Desai,14,63,157,102,Anemia
+Deepak Reddy,71,56,160,102,Thyroid Disorder
+Priya Rao,84,46,169,119,Respiratory Infection
+Manoj Yadav,59,72,179,106,Respiratory Infection
+Suman Pillai,17,56,155,153,Malaria
+Naveen Iyer,39,74,170,111,Hypertension
+Indira Menon,66,66,156,129,Hypertension
+Rohit Patel,73,65,152,107,Liver Disease
+Arun Kulkarni,57,78,175,113,Anemia
+Pooja Gupta,37,78,163,123,Tuberculosis
+Sunita Mishra,29,83,155,128,Dengue
+Vikas Aggarwal,17,50,165,154,Respiratory Infection
+Priya Bose,90,48,160,114,Anemia
+Seema Mehta,40,68,156,140,Tuberculosis
+Nisha Singh,58,77,167,140,Liver Disease
+Pooja Chatterjee,13,61,137,98,Kidney Disease
+Rohit Kohli,80,48,160,137,Thyroid Disorder
+Anjali Kohli,38,80,174,131,Tuberculosis
+Naveen Chatterjee,45,84,163,151,Liver Disease
+Suman Chatterjee,40,63,169,117,Malaria
+Alok Chopra,82,76,147,152,Respiratory Infection
+Ravi Mehta,18,48,135,144,Dengue
+Bhavana Malhotra,44,72,150,131,Thyroid Disorder
+Sandeep Kumar,27,83,166,117,Cardiovascular Disease
+Kiran Nath,8,32,133,111,Hypertension
+Suman Nath,11,28,119,93,Asthma
+Rakesh Saxena,69,80,167,98,Thyroid Disorder
+Arjun Reddy,17,51,149,158,Anemia
+Rajesh Das,6,26,120,132,Asthma
+Geeta Malhotra,81,72,153,99,Dengue
+Manoj Pandey,87,57,169,142,Asthma
+Ramesh Bose,29,81,180,127,Respiratory Infection
+Vijay Kohli,62,49,159,135,Hypertension
+Lakshmi Mishra,22,61,167,133,Hypertension
+Alok Pillai,76,64,150,126,Kidney Disease
+Lakshmi Nair,37,68,153,91,Diabetes
+Sudha Nath,70,54,146,153,Thyroid Disorder
+Vijay Pandey,88,72,150,130,Dengue
+Arjun Prasad,9,29,128,146,Malaria
+Deepak Rana,22,73,175,126,Asthma
+Nisha Kohli,44,71,175,160,Asthma
+Ramesh Reddy,38,60,160,134,Kidney Disease
+Swati Gupta,21,82,165,153,Malaria
+Anita Kulkarni,31,61,153,142,Dengue
+Abhinav Mishra,52,82,152,121,Thyroid Disorder
+Rajesh Prasad,10,29,97,98,Liver Disease
+Pooja Patel,30,56,162,113,Cardiovascular Disease
+Shankar Yadav,16,58,151,107,Respiratory Infection
+Arjun Gupta,18,57,137,139,Cardiovascular Disease
+Santosh Saxena,79,73,143,113,Diabetes
+Shankar Malhotra,76,51,151,117,Dengue
+Suman Saxena,62,59,146,103,Dengue
+Abhinav Nath,75,59,170,159,Kidney Disease
+Ramesh Prasad,25,81,167,118,Cardiovascular Disease
+Bhavana Kohli,62,70,145,143,Thyroid Disorder
+Rakesh Joshi,68,80,151,118,Hypertension
+Sanjay Chopra,11,28,121,119,Dengue
+Bhavana Mishra,30,79,174,142,Cardiovascular Disease
+Alok Kulkarni,53,83,178,128,Asthma
+Amit Yadav,8,37,139,149,Respiratory Infection
+Lakshmi Mishra,33,58,167,133,Malaria
+Anita Banerjee,11,27,136,145,Malaria
+Sudha Rana,8,37,126,101,Kidney Disease
+Pooja Kohli,60,55,179,151,Kidney Disease
+Ajay Das,65,69,158,106,Respiratory Infection
+Seema Kohli,67,47,142,91,Liver Disease
+Abhinav Reddy,7,40,117,117,Anemia
+Rohit Rana,82,78,160,105,Diabetes
+Arjun Aggarwal,78,64,143,159,Asthma
+Sudha Iyer,59,52,158,139,Kidney Disease
+Kiran Kohli,74,70,169,139,Anemia
+Amit Kulkarni,29,78,151,158,Kidney Disease
+Naveen Joshi,8,22,116,119,Kidney Disease
+Kiran Joshi,35,60,163,152,Cardiovascular Disease
+Priya Reddy,12,35,121,100,Dengue
+Geeta Bose,85,54,154,138,Asthma
+Anita Singh,65,54,156,157,Kidney Disease
+Kiran Singh,14,59,165,114,Diabetes
+Shankar Saxena,50,83,173,138,Cardiovascular Disease
+Santosh Rana,6,21,127,144,Asthma
+Suman Banerjee,17,43,142,158,Anemia
+Seema Kulkarni,52,56,165,118,Diabetes
+Rajesh Verma,43,76,180,121,Asthma
+Manoj Aggarwal,73,47,158,140,Dengue
+Ramesh Mishra,69,64,164,96,Liver Disease
+Ravi Chopra,85,62,153,144,Tuberculosis
+Rohit Pandey,82,45,141,99,Kidney Disease
+Preeti Joshi,75,64,152,92,Dengue
+Sandeep Reddy,11,34,122,133,Cardiovascular Disease
+Ravi Patel,13,51,150,131,Liver Disease
+Ajay Gupta,84,49,153,97,Kidney Disease
+Neha Iyer,22,51,177,152,Respiratory Infection
+Santosh Das,6,34,111,106,Anemia
+Ajay Sharma,3,38,114,125,Respiratory Infection
+Rohit Nair,36,59,168,138,Malaria
+Naveen Chopra,34,67,151,120,Cardiovascular Disease
+Nisha Iyer,33,54,161,90,Diabetes
+Vikas Rana,15,61,140,102,Cardiovascular Disease
+Amit Joshi,39,70,153,152,Anemia
+Bhavana Patel,3,18,109,148,Kidney Disease
+Geeta Aggarwal,8,33,101,114,Malaria
+Deepak Rao,2,38,108,126,Asthma
+Nisha Chopra,9,20,132,112,Anemia
+Sandeep Bose,10,30,123,131,Malaria
+Vijay Pandey,72,58,160,134,Liver Disease
+Ajay Patel,84,75,170,99,Tuberculosis
+Geeta Aggarwal,54,83,166,93,Thyroid Disorder
+Arjun Chopra,72,71,149,140,Hypertension
+Suman Yadav,77,48,146,107,Respiratory Infection
+Bhavana Singh,4,17,128,105,Thyroid Disorder
+Santosh Nair,52,78,176,92,Thyroid Disorder
+Amit Menon,18,63,139,120,Kidney Disease
+Sudha Das,57,61,156,137,Liver Disease
+Amit Gupta,63,67,148,115,Asthma
+Preeti Chatterjee,88,68,161,156,Kidney Disease
+Meena Sharma,8,16,122,142,Anemia
+Preeti Das,49,54,166,145,Tuberculosis
+Preeti Mehta,49,85,176,129,Kidney Disease
+Ajay Verma,52,55,158,156,Diabetes
+Preeti Banerjee,64,51,143,138,Kidney Disease
+Swati Pandey,4,31,139,121,Liver Disease
+Pooja Prasad,15,59,155,118,Asthma
+Amit Nair,15,44,149,119,Anemia
+Manoj Aggarwal,84,75,169,129,Cardiovascular Disease
+Lakshmi Verma,55,70,178,114,Cardiovascular Disease
+Vikas Das,43,63,175,100,Liver Disease
+Neha Iyer,75,51,160,142,Diabetes
+Ramesh Malhotra,42,61,160,92,Diabetes
+Sandeep Pandey,75,65,141,113,Malaria
+Santosh Kohli,12,41,132,117,Thyroid Disorder
+Alok Mehta,4,19,99,156,Anemia
+Sudha Bose,16,58,132,92,Malaria
+Santosh Kulkarni,29,84,154,150,Hypertension
+Naveen Kohli,32,50,166,140,Tuberculosis
+Suman Joshi,11,30,109,153,Liver Disease
+Sanjay Bose,82,79,170,112,Thyroid Disorder
+Arun Singh,68,72,169,127,Cardiovascular Disease
+Alok Prasad,34,54,180,100,Malaria
+Alok Rana,82,60,152,94,Thyroid Disorder
+Geeta Mehta,72,60,162,121,Cardiovascular Disease
+Meena Gupta,32,84,152,127,Malaria
+Ajay Reddy,74,48,154,105,Malaria
+Ajay Kohli,38,70,163,98,Thyroid Disorder
+Neha Menon,43,65,153,135,Kidney Disease
+Swati Kumar,54,63,151,149,Diabetes
+Pooja Pandey,57,81,168,150,Dengue
+Ramesh Banerjee,51,63,180,136,Malaria
+Santosh Verma,86,54,150,101,Asthma
+Ajay Menon,46,63,155,97,Kidney Disease
+Bhavana Yadav,82,64,168,125,Anemia
+Lakshmi Kulkarni,65,64,170,135,Malaria
+Arun Kulkarni,8,21,100,103,Dengue
+Ravi Kumar,87,69,167,139,Thyroid Disorder
+Manoj Bose,14,38,134,106,Tuberculosis
+Geeta Kohli,39,50,160,153,Cardiovascular Disease
+Alok Aggarwal,16,46,141,130,Malaria
+Vikas Yadav,9,17,134,116,Dengue
+Naveen Banerjee,28,60,170,133,Kidney Disease
+Sandeep Joshi,55,67,165,149,Liver Disease
+Rajesh Rana,38,69,165,135,Respiratory Infection
+Sunita Prasad,22,78,166,119,Liver Disease
+Rajesh Prasad,75,68,150,113,Dengue
+Pooja Pandey,58,72,180,93,Anemia
+Suman Menon,59,67,172,151,Tuberculosis
+Geeta Patel,18,66,161,90,Respiratory Infection
+Neha Menon,21,79,159,106,Diabetes
+Sudha Pandey,24,55,161,142,Asthma
+Sanjay Reddy,36,64,172,156,Cardiovascular Disease
+Ravi Malhotra,16,47,136,104,Diabetes
+Alok Singh,40,65,170,140,Tuberculosis
+Sunita Malhotra,80,55,163,160,Hypertension
+Deepak Bose,22,63,168,128,Kidney Disease
+Suman Banerjee,44,73,180,102,Dengue
+Bhavana Kohli,12,29,107,134,Liver Disease
+Rakesh Kumar,65,72,149,139,Cardiovascular Disease
+Suman Reddy,77,59,161,92,Asthma
+Naveen Aggarwal,39,65,166,140,Kidney Disease
+Deepak Pillai,22,63,152,138,Malaria
+Bhavana Nath,16,39,159,142,Malaria
+Alok Singh,78,77,164,110,Malaria
+Rakesh Pillai,58,76,153,92,Liver Disease
+Indira Pillai,69,78,145,115,Cardiovascular Disease
+Arjun Rana,6,32,126,116,Liver Disease
+Sunita Rana,65,49,160,116,Asthma
+Geeta Menon,32,84,159,149,Malaria
+Ajay Prasad,36,79,154,153,Tuberculosis
+Ravi Iyer,89,60,143,93,Hypertension
+Swati Desai,32,78,178,117,Cardiovascular Disease
+Lakshmi Banerjee,63,63,162,133,Respiratory Infection
+Alok Mehta,20,75,172,117,Hypertension
+Bhavana Mishra,52,82,174,155,Respiratory Infection
+Kiran Mehta,32,50,179,94,Cardiovascular Disease
+Preeti Iyer,66,58,167,134,Thyroid Disorder
+Kavita Nath,2,24,137,121,Hypertension
+Arjun Sharma,38,78,170,113,Thyroid Disorder
+Kiran Chopra,75,65,165,148,Cardiovascular Disease
+Meena Kumar,37,58,174,91,Malaria
+Sanjay Mishra,59,64,155,92,Respiratory Infection
+Swati Chatterjee,53,59,162,156,Respiratory Infection
+Naveen Reddy,13,38,167,155,Respiratory Infection
+Amit Rao,17,54,144,99,Liver Disease
+Naveen Iyer,35,59,152,109,Liver Disease
+Swati Sharma,33,79,166,154,Hypertension
+Naveen Pillai,85,57,146,146,Liver Disease
+Rajesh Nair,38,63,176,137,Thyroid Disorder
+Santosh Gupta,48,76,165,153,Malaria
+Indira Rana,29,55,162,107,Dengue
+Vijay Joshi,65,64,167,126,Malaria
+Seema Chatterjee,59,79,173,100,Thyroid Disorder
+Arjun Pillai,26,65,159,101,Asthma
+Naveen Chatterjee,74,74,151,96,Diabetes
+Arun Malhotra,31,52,153,118,Malaria
+Naveen Reddy,10,44,93,159,Kidney Disease
+Indira Chopra,62,49,142,102,Tuberculosis
+Ravi Kohli,86,75,168,133,Liver Disease
+Rohit Rao,63,46,157,151,Hypertension
+Arjun Pandey,6,44,92,149,Hypertension
+Anjali Singh,48,83,154,149,Liver Disease
+Lakshmi Reddy,69,76,148,147,Anemia
+Amit Pillai,45,84,168,118,Diabetes
+Arun Banerjee,24,85,170,114,Respiratory Infection
+Bhavana Kohli,59,51,158,147,Dengue
+Suman Gupta,17,54,148,157,Kidney Disease
+Seema Pandey,62,61,142,90,Respiratory Infection
+Lakshmi Verma,64,62,166,146,Asthma
+Sunita Reddy,70,61,169,154,Respiratory Infection
+Kavita Verma,83,53,158,117,Tuberculosis
+Ajay Pillai,5,44,112,148,Cardiovascular Disease
+Sudha Pillai,17,36,152,127,Thyroid Disorder
+Vikas Kohli,59,69,158,107,Anemia
+Arjun Iyer,8,31,121,110,Diabetes
+Rajesh Mishra,33,77,180,132,Kidney Disease
+Ajay Yadav,68,76,155,94,Thyroid Disorder
+Sudha Iyer,11,18,114,130,Tuberculosis
+Shankar Pillai,5,34,122,141,Thyroid Disorder
+Geeta Pandey,74,45,143,157,Anemia
+Geeta Kulkarni,38,77,180,137,Liver Disease
+Indira Iyer,52,58,153,144,Anemia
+Sanjay Desai,19,84,151,125,Kidney Disease
+Anita Sharma,48,81,150,112,Kidney Disease
+Deepak Iyer,17,40,139,155,Hypertension
+Amit Prasad,82,71,144,141,Asthma
+Ramesh Rana,8,17,136,127,Malaria
+Kavita Desai,42,72,169,122,Cardiovascular Disease
+Geeta Nath,4,43,119,92,Asthma
+Seema Nath,53,51,160,132,Malaria
+Sudha Desai,27,85,171,99,Thyroid Disorder
+Suman Kohli,46,81,177,139,Anemia
+Sudha Saxena,75,58,167,152,Asthma
+Naveen Sharma,2,41,117,104,Tuberculosis
+Vikas Verma,1,26,116,134,Respiratory Infection
+Abhinav Das,53,61,160,150,Anemia
+Abhinav Nath,68,72,148,158,Asthma
+Sunita Gupta,33,71,171,122,Diabetes
+Arjun Yadav,28,70,173,137,Kidney Disease
+Bhavana Mishra,81,65,144,116,Tuberculosis
+Bhavana Nair,4,19,135,115,Dengue
+Sudha Chopra,2,27,116,135,Anemia
+Ramesh Kulkarni,25,62,164,91,Diabetes
+Ravi Desai,14,62,135,102,Thyroid Disorder
+Nisha Saxena,18,52,164,113,Malaria
+Arun Joshi,36,66,157,131,Dengue
+Swati Malhotra,33,81,153,110,Diabetes
+Kiran Saxena,25,76,160,109,Dengue
+Rakesh Iyer,56,51,150,130,Diabetes
+Indira Mehta,26,59,152,100,Anemia
+Kavita Banerjee,33,84,157,154,Asthma
+Priya Saxena,43,51,173,142,Diabetes
+Bhavana Desai,16,48,143,141,Kidney Disease
+Swati Bose,51,61,159,149,Anemia
+Abhinav Banerjee,72,79,164,151,Asthma
+Pooja Menon,5,44,110,125,Malaria
+Shankar Rao,29,72,174,108,Hypertension
+Seema Yadav,34,81,171,119,Cardiovascular Disease
+Nisha Banerjee,6,26,117,143,Asthma
+Kiran Yadav,37,58,174,155,Diabetes
+Abhinav Chatterjee,34,84,165,129,Dengue
+Amit Menon,56,65,155,123,Dengue
+Seema Pandey,20,69,153,144,Anemia
+Sudha Nair,80,54,161,155,Tuberculosis
+Seema Mehta,71,76,140,127,Respiratory Infection
+Manoj Prasad,89,59,169,93,Respiratory Infection
+Sunita Iyer,41,74,158,96,Hypertension
+Anita Prasad,30,50,154,151,Asthma
+Priya Mehta,60,76,161,134,Liver Disease
+Priya Aggarwal,49,66,179,121,Thyroid Disorder
+Preeti Aggarwal,26,83,151,99,Anemia
+Meena Kumar,19,60,160,150,Asthma
+Manoj Aggarwal,89,67,147,137,Thyroid Disorder
+Alok Mehta,40,80,175,157,Anemia
+Preeti Banerjee,64,59,151,159,Dengue
+Sanjay Nath,74,63,143,102,Liver Disease
+Swati Singh,67,72,167,123,Cardiovascular Disease
+Arun Yadav,69,47,165,110,Malaria
+Sudha Pillai,42,56,161,153,Anemia
+Naveen Mehta,22,85,177,134,Malaria
+Sunita Kulkarni,47,68,171,157,Anemia
+Vikas Pandey,67,61,170,124,Asthma
+Rakesh Malhotra,63,80,166,143,Asthma
+Arun Mehta,14,46,145,113,Dengue
+Abhinav Malhotra,16,43,142,145,Kidney Disease
+Bhavana Nath,61,55,142,134,Thyroid Disorder
+Meena Reddy,13,41,135,115,Dengue
+Manoj Rana,35,51,175,155,Asthma
+Vijay Chatterjee,59,78,151,113,Kidney Disease
+Arun Mehta,26,68,156,129,Asthma
+Geeta Kulkarni,73,74,157,123,Tuberculosis
+Anita Nath,84,67,168,128,Anemia
+Arun Menon,32,62,152,132,Cardiovascular Disease
+Swati Mishra,47,70,160,98,Thyroid Disorder
+Anita Mishra,55,65,179,90,Respiratory Infection
+Arjun Singh,7,23,115,121,Dengue
+Anita Pandey,28,67,166,112,Thyroid Disorder
+Neha Aggarwal,80,53,169,99,Kidney Disease
+Sandeep Chopra,72,65,145,105,Respiratory Infection
+Manoj Sharma,44,77,161,153,Asthma
+Priya Nair,85,53,169,97,Asthma
+Rajesh Menon,85,63,169,127,Dengue
+Lakshmi Pillai,76,64,141,104,Liver Disease
+Meena Sharma,7,44,119,123,Hypertension
+Kavita Mishra,46,51,171,124,Asthma
+Vijay Mishra,59,72,167,111,Liver Disease
+Seema Bose,84,78,150,160,Liver Disease
+Anjali Kumar,30,51,173,154,Malaria
+Pooja Reddy,76,47,168,139,Respiratory Infection
+Neha Banerjee,10,44,106,149,Thyroid Disorder
+Rajesh Patel,19,68,155,106,Respiratory Infection
+Vikas Iyer,73,47,152,121,Cardiovascular Disease
+Preeti Singh,32,85,156,124,Malaria
+Neha Kohli,76,47,150,97,Cardiovascular Disease
+Anita Verma,44,78,177,92,Diabetes
+Sudha Patel,27,64,169,156,Tuberculosis
+Rohit Nair,30,63,159,129,Respiratory Infection
+Neha Sharma,84,76,156,138,Dengue
+Ravi Singh,38,78,152,120,Cardiovascular Disease
+Abhinav Kumar,53,60,159,151,Hypertension
+Santosh Prasad,51,61,175,154,Liver Disease
+Anita Reddy,26,53,180,112,Hypertension
+Ravi Rana,13,65,141,100,Malaria
+Priya Das,61,73,151,132,Hypertension
+Ajay Banerjee,26,69,171,117,Dengue
+Priya Iyer,73,76,167,157,Tuberculosis
+Amit Chopra,81,71,161,100,Tuberculosis
+Ravi Aggarwal,47,69,174,134,Dengue
+Rohit Chopra,90,53,164,98,Diabetes
+Kiran Malhotra,13,45,166,127,Asthma
+Vikas Gupta,24,78,156,136,Liver Disease
+Rohit Reddy,80,64,167,101,Tuberculosis
+Santosh Chopra,90,79,162,160,Cardiovascular Disease
+Alok Sharma,3,30,134,115,Malaria
+Neha Kulkarni,77,54,164,136,Hypertension
+Arun Mishra,69,80,145,144,Respiratory Infection
+Vikas Pillai,42,53,171,141,Asthma
+Seema Chopra,27,82,156,124,Cardiovascular Disease
+Swati Menon,21,72,153,157,Malaria
+Sunita Singh,72,79,161,94,Cardiovascular Disease
+Swati Prasad,8,27,95,145,Liver Disease
+Geeta Rana,70,55,151,102,Anemia
+Lakshmi Patel,38,62,179,160,Kidney Disease
+Vijay Singh,19,73,156,148,Malaria
+Rohit Singh,83,66,168,124,Diabetes
+Pooja Chopra,41,56,153,160,Diabetes
+Lakshmi Pandey,10,42,91,158,Liver Disease
+Neha Reddy,88,61,155,118,Tuberculosis
+Rakesh Pillai,42,58,169,120,Anemia
+Suman Nath,46,82,152,123,Respiratory Infection
+Meena Malhotra,14,45,163,122,Cardiovascular Disease
+Santosh Kumar,41,66,173,136,Anemia
+Sudha Banerjee,59,56,158,99,Anemia
+Santosh Gupta,82,51,161,153,Liver Disease
+Deepak Menon,57,81,167,155,Anemia
+Nisha Menon,15,58,145,139,Malaria
+Suman Aggarwal,46,71,163,117,Kidney Disease
+Preeti Prasad,80,71,169,94,Anemia
+Bhavana Das,77,60,145,90,Cardiovascular Disease
+Ravi Aggarwal,17,37,162,134,Dengue
+Anita Kohli,49,70,151,116,Respiratory Infection
+Rohit Das,71,50,150,143,Liver Disease
+Nisha Nath,53,82,165,124,Anemia
+Indira Pillai,62,79,157,132,Diabetes
+Anita Yadav,32,85,157,107,Liver Disease
+Vijay Singh,5,37,99,156,Dengue
+Kavita Gupta,41,83,169,113,Hypertension
+Manoj Pandey,47,69,177,133,Diabetes
+Arjun Mishra,69,58,152,127,Kidney Disease
+Neha Malhotra,76,68,152,155,Kidney Disease
+Anjali Gupta,11,39,94,106,Kidney Disease
+Sanjay Verma,14,69,150,117,Malaria
+Arun Kumar,62,79,169,117,Dengue
+Suman Rana,61,51,166,92,Dengue
+Preeti Kohli,74,66,146,112,Respiratory Infection
+Sandeep Pandey,65,71,162,156,Anemia
+Neha Nath,33,70,150,97,Tuberculosis
+Vijay Joshi,16,42,136,143,Thyroid Disorder
+Deepak Prasad,34,55,174,157,Diabetes
+Vikas Gupta,86,51,140,148,Diabetes
+Lakshmi Kumar,63,49,160,141,Asthma
+Vijay Chatterjee,37,57,173,158,Dengue
+Seema Kohli,71,64,169,116,Diabetes
+Swati Rao,21,76,159,130,Respiratory Infection
+Bhavana Menon,76,54,158,127,Dengue
+Abhinav Kohli,41,84,158,122,Respiratory Infection
+Vikas Saxena,81,46,165,125,Thyroid Disorder
+Naveen Iyer,44,72,151,144,Thyroid Disorder
+Amit Aggarwal,55,64,178,155,Respiratory Infection
+Arun Rana,21,76,152,127,Respiratory Infection
+Rajesh Nath,38,51,159,138,Cardiovascular Disease
+Vijay Bose,77,78,168,159,Malaria
+Vikas Desai,42,60,156,96,Diabetes
+Rajesh Singh,80,62,154,142,Liver Disease
+Anita Bose,55,64,162,92,Malaria
+Indira Rao,90,66,169,158,Malaria
+Preeti Kumar,86,47,159,109,Hypertension
+Santosh Mishra,40,77,166,118,Liver Disease
+Nisha Rana,76,57,154,116,Tuberculosis
+Indira Sharma,65,52,165,110,Anemia
+Nisha Rana,83,61,144,153,Diabetes
+Ajay Joshi,47,71,170,104,Dengue
+Nisha Patel,63,45,150,109,Cardiovascular Disease
+Shankar Kohli,25,67,178,138,Asthma
+Shankar Mehta,26,66,169,129,Hypertension
+Santosh Kulkarni,40,65,163,111,Malaria
+Seema Gupta,54,74,164,135,Liver Disease
+Arjun Reddy,47,59,166,147,Thyroid Disorder
+Shankar Joshi,66,69,165,153,Tuberculosis
+Ravi Pandey,18,55,140,154,Tuberculosis
+Nisha Iyer,90,71,143,120,Malaria
+Abhinav Das,32,62,169,149,Liver Disease
+Lakshmi Prasad,53,79,150,117,Tuberculosis
+Alok Patel,43,64,179,138,Thyroid Disorder
+Alok Nair,90,67,162,94,Anemia
+Swati Menon,36,76,179,143,Asthma
+Geeta Nath,49,58,160,90,Thyroid Disorder
+Ravi Aggarwal,88,57,170,102,Cardiovascular Disease
+Suman Desai,60,74,151,94,Hypertension
+Indira Prasad,44,54,176,104,Asthma
+Ravi Pandey,14,53,158,104,Dengue
+Kiran Iyer,13,49,148,127,Tuberculosis
+Bhavana Kohli,15,55,135,155,Thyroid Disorder
+Priya Pandey,41,77,170,153,Dengue
+Kiran Rao,60,60,161,129,Cardiovascular Disease
+Anita Kumar,84,55,164,96,Hypertension
+Sandeep Reddy,69,62,149,153,Respiratory Infection
+Arun Das,81,77,170,129,Dengue
+Lakshmi Verma,39,66,169,131,Liver Disease
+Abhinav Reddy,41,60,150,136,Respiratory Infection
+Alok Banerjee,57,51,154,114,Liver Disease
+Pooja Reddy,61,74,144,102,Liver Disease
+Amit Mishra,25,80,173,130,Cardiovascular Disease
+Rohit Kohli,47,83,159,106,Thyroid Disorder
+Suman Aggarwal,38,78,175,120,Hypertension
+Geeta Joshi,74,79,169,136,Malaria
+Arjun Joshi,78,64,142,146,Diabetes
+Anjali Reddy,17,61,162,119,Liver Disease
+Arjun Nair,57,65,165,125,Kidney Disease
+Swati Iyer,26,72,169,112,Dengue
+Arun Yadav,65,56,144,115,Dengue
+Abhinav Kulkarni,12,15,105,94,Diabetes
+Naveen Menon,9,45,122,125,Anemia
+Neha Kulkarni,6,41,126,135,Hypertension
+Pooja Rana,89,52,155,154,Cardiovascular Disease
+Indira Joshi,31,53,163,121,Cardiovascular Disease
+Manoj Gupta,44,77,154,120,Diabetes
+Rakesh Kulkarni,71,75,148,127,Tuberculosis
+Shankar Patel,54,63,163,119,Malaria
+Ajay Gupta,46,81,154,113,Hypertension
+Kavita Yadav,52,73,158,138,Tuberculosis
+Santosh Rana,51,85,155,114,Liver Disease
+Kavita Desai,75,55,156,156,Liver Disease
+Ravi Reddy,84,67,149,123,Tuberculosis
+Vikas Das,18,62,166,90,Thyroid Disorder
+Anjali Nath,9,42,139,158,Anemia
+Shankar Joshi,81,48,142,111,Cardiovascular Disease
+Rajesh Rana,38,60,167,158,Liver Disease
+Anita Gupta,76,75,165,90,Asthma
+Seema Verma,7,39,138,136,Thyroid Disorder
+Sudha Gupta,73,51,158,139,Thyroid Disorder
+Alok Nair,51,66,166,100,Malaria
+Seema Pandey,18,43,154,102,Tuberculosis
+Rakesh Sharma,45,51,154,148,Anemia
+Sanjay Patel,10,37,103,107,Anemia
+Geeta Patel,42,61,171,113,Malaria
+Bhavana Chatterjee,30,76,159,127,Dengue
+Anjali Kohli,71,52,144,156,Respiratory Infection
+Indira Nair,24,56,158,95,Liver Disease
+Deepak Chatterjee,55,60,152,156,Respiratory Infection
+Seema Reddy,40,59,165,140,Tuberculosis
+Arun Prasad,41,83,165,157,Respiratory Infection
+Swati Saxena,84,64,153,144,Cardiovascular Disease
+Seema Chatterjee,42,51,165,147,Kidney Disease
+Anita Kumar,78,57,149,160,Malaria
+Ajay Chopra,80,74,167,126,Dengue
+Santosh Nair,26,78,158,125,Hypertension
+Rakesh Verma,58,65,179,99,Dengue
+Nisha Bose,35,77,163,91,Thyroid Disorder
+Geeta Reddy,68,79,146,106,Hypertension
+Kiran Patel,29,60,156,97,Asthma
+Rajesh Malhotra,72,77,164,102,Thyroid Disorder
+Neha Das,13,41,139,132,Diabetes
+Vikas Iyer,22,84,167,159,Hypertension
+Abhinav Aggarwal,31,62,168,133,Diabetes
+Neha Verma,20,83,168,135,Kidney Disease
+Sandeep Gupta,70,63,161,138,Asthma
+Anita Kohli,48,65,176,90,Diabetes
+Arjun Aggarwal,19,63,165,110,Respiratory Infection
+Kiran Kumar,22,71,175,126,Liver Disease
+Santosh Aggarwal,1,41,132,95,Hypertension
+Priya Yadav,29,78,177,115,Diabetes
+Rakesh Rana,53,56,168,94,Kidney Disease
+Meena Banerjee,80,47,158,149,Thyroid Disorder
+Shankar Das,32,72,153,131,Kidney Disease
+Nisha Rao,42,83,157,147,Cardiovascular Disease
+Vikas Pandey,88,65,161,147,Anemia
+Anjali Iyer,47,63,177,107,Anemia
+Swati Patel,32,69,177,133,Malaria
+Rajesh Rana,79,80,164,128,Kidney Disease
+Arun Chatterjee,28,84,162,112,Dengue
+Naveen Pillai,26,51,172,113,Respiratory Infection
+Anita Das,59,56,153,99,Dengue
+Sanjay Aggarwal,10,15,117,93,Kidney Disease
+Vikas Nath,89,49,141,159,Cardiovascular Disease
+Arjun Iyer,66,53,146,97,
+Seema Bose,16,37,131,102,
+Neha Mishra,33,55,153,126,
+Sudha Kumar,28,69,167,154,
+Geeta Singh,76,48,148,154,
+Geeta Kohli,90,71,164,144,
+Naveen Das,72,53,156,146,
+Ajay Saxena,73,77,167,100,
+Kavita Aggarwal,20,81,163,136,
+Ramesh Pillai,87,58,165,140,
+Naveen Sharma,76,66,154,126,
+Rohit Nair,6,44,109,104,
+Vijay Chopra,45,67,155,132,
+Arjun Banerjee,39,63,155,110,
+Seema Reddy,48,74,156,111,
+Pooja Menon,85,74,148,129,
+Vikas Singh,62,63,144,114,
+Lakshmi Patel,67,71,148,135,
+Arjun Mishra,73,57,155,148,
+Bhavana Aggarwal,80,69,169,145,
+Sunita Rana,20,84,155,118,
+Preeti Mehta,45,51,164,123,
+Deepak Yadav,12,23,90,102,
+Manoj Bose,13,63,162,105,
+Kavita Nath,48,67,158,93,
+Sandeep Aggarwal,50,51,161,128,
+Kiran Yadav,66,70,164,142,
+Sandeep Malhotra,23,80,157,95,
+Ramesh Mehta,40,74,159,120,
+Arjun Aggarwal,23,80,150,114,
+Abhinav Patel,17,49,152,155,
+Vikas Bose,75,53,140,119,
+Naveen Nath,2,34,138,142,
+Vikas Banerjee,22,72,151,137,
+Swati Malhotra,46,82,167,116,
+Priya Mishra,48,85,153,138,
+Pooja Aggarwal,60,84,167,120,
+Indira Verma,68,55,146,137,
+Abhinav Prasad,82,51,144,133,
+Kiran Pillai,56,69,172,137,
+Nisha Rao,33,74,150,151,
+Priya Singh,75,63,163,98,
+Arun Saxena,14,40,158,157,
+Ravi Pandey,85,80,146,102,
+Abhinav Sharma,35,84,165,114,
+Santosh Patel,29,52,160,109,
+Alok Banerjee,7,45,110,103,
+Kiran Menon,86,78,159,95,
+Shankar Mishra,82,67,164,114,
+Meena Pandey,27,75,172,106,
+Manoj Bose,90,60,143,91,
+Sudha Das,47,73,159,90,
+Nisha Kulkarni,61,75,170,105,
+Kiran Joshi,79,65,155,93,
+Nisha Mishra,44,76,174,92,
+Indira Aggarwal,8,25,123,152,
+Seema Prasad,49,70,177,103,
+Ramesh Banerjee,3,29,130,109,
+Bhavana Verma,41,61,160,117,
+Pooja Singh,47,67,157,144,
+Anita Patel,46,81,162,109,
+Indira Joshi,12,23,127,114,
+Swati Bose,88,74,170,149,
+Ramesh Pandey,18,67,165,131,
+Rakesh Mehta,13,62,146,159,
+Meena Prasad,37,74,169,136,
+Ajay Kulkarni,19,80,166,146,
+Priya Mishra,64,63,151,140,
+Vikas Gupta,62,63,145,91,
+Manoj Desai,66,62,159,147,
+Sandeep Malhotra,90,65,151,149,
+Arun Kohli,10,44,136,107,
+Alok Verma,88,60,152,118,
+Meena Sharma,42,64,172,107,
+Indira Rao,1,31,96,118,
+Neha Chatterjee,36,61,164,91,
+Arjun Patel,2,23,101,133,
+Lakshmi Chatterjee,87,80,151,151,
+Ramesh Rao,82,79,142,107,
+Deepak Nair,72,55,143,134,
+Ravi Chatterjee,62,71,143,137,
+Abhinav Das,88,52,141,104,
+Nisha Sharma,67,54,154,140,
+Anjali Pillai,42,70,155,134,
+Shankar Bose,66,70,152,133,
+Vikas Das,20,62,150,105,
+Arjun Pillai,51,71,163,125,
+Sanjay Singh,19,71,178,115,
+Santosh Chopra,46,83,166,101,
+Sanjay Prasad,86,47,168,93,
+Kiran Nair,6,40,127,94,
+Amit Mishra,90,55,160,137,
+Sanjay Nair,64,76,152,107,
+Bhavana Sharma,80,52,150,143,
+Bhavana Nath,79,65,141,91,
+Kiran Gupta,78,50,160,94,
+Rajesh Desai,24,63,171,121,
+Meena Sharma,22,50,177,148,
+Preeti Verma,51,51,177,159,
+Rakesh Nath,54,59,175,108,
+Preeti Yadav,44,84,153,93,
+Neha Chatterjee,72,71,154,148,
+Meena Chatterjee,1,18,119,128,
+Shankar Das,58,52,167,110,
+Abhinav Saxena,4,41,107,152,
+Lakshmi Chatterjee,7,33,123,109,
+Vikas Joshi,51,60,168,112,
+Kiran Bose,49,70,159,139,
+Deepak Sharma,22,76,162,119,
+Swati Iyer,20,82,153,106,
+Rajesh Yadav,40,61,150,135,
+Ajay Malhotra,90,56,152,156,
+Sudha Pandey,19,56,168,117,
+Priya Aggarwal,30,74,166,151,
+Santosh Iyer,14,50,136,92,
+Santosh Singh,24,80,166,111,
+Rakesh Bose,16,51,145,138,
+Swati Verma,42,83,175,140,
+Ramesh Nath,60,83,166,140,
+Seema Verma,84,54,144,102,
+Abhinav Desai,31,79,159,152,
+Arjun Desai,66,51,146,142,
+Lakshmi Menon,29,61,158,122,
+Manoj Banerjee,33,72,150,123,
+Arun Chopra,24,62,166,124,
+Rajesh Verma,20,63,168,95,
+Anjali Menon,9,44,103,133,
+Pooja Menon,85,54,143,127,
+Arjun Rana,15,45,153,147,
+Neha Saxena,59,82,179,103,
+Naveen Joshi,2,35,100,142,
+Arun Desai,60,83,156,111,
+Sunita Pillai,51,78,157,127,
+Rakesh Yadav,10,32,109,145,
+Deepak Kumar,76,52,141,131,
+Manoj Kohli,84,63,161,92,
+Seema Pandey,44,52,176,135,
+Ravi Joshi,67,45,167,141,
+Deepak Rao,19,79,162,143,
+Kiran Saxena,43,74,165,92,
+Sandeep Joshi,41,77,179,90,
+Abhinav Saxena,3,28,136,135,
+Ajay Gupta,42,50,160,96,
+Suman Pandey,31,71,179,131,
+Sandeep Nath,77,56,158,113,
+Kavita Sharma,87,72,170,135,
+Ajay Saxena,56,76,160,94,
+Sanjay Patel,76,70,161,150,
+Sudha Das,70,48,148,115,
+Indira Kulkarni,28,85,179,141,
+Geeta Mehta,25,60,168,132,
+Ravi Pillai,58,74,175,104,
+Arun Kulkarni,15,69,160,147,
+Kavita Prasad,8,44,130,152,
+Vikas Aggarwal,31,82,152,143,
+Ravi Desai,87,71,140,105,
+Meena Pillai,26,73,171,96,
+Alok Saxena,8,27,129,103,
+Ravi Mishra,6,26,97,158,
+Naveen Banerjee,77,66,155,143,
+Preeti Prasad,53,71,161,121,
+Ajay Patel,21,69,153,96,
+Seema Chatterjee,52,56,152,90,
+Neha Rao,58,60,150,103,
+Neha Desai,77,76,151,143,
+Sandeep Aggarwal,37,71,179,115,
+Ajay Kohli,26,65,168,143,
+Nisha Gupta,12,26,107,127,
+Seema Bose,41,67,161,153,
+Rajesh Nair,3,29,129,134,
+Preeti Chatterjee,2,17,133,97,
+Sudha Verma,16,64,147,101,
+Deepak Yadav,23,61,156,138,
+Pooja Pillai,8,18,130,103,
+Abhinav Kohli,22,64,166,130,
+Vikas Gupta,45,55,151,101,
+Ajay Kohli,31,74,176,98,
+Alok Sharma,8,44,92,100,
+Rakesh Kohli,4,42,109,153,
+Abhinav Menon,25,78,160,102,
+Pooja Saxena,29,68,174,122,
+Preeti Saxena,42,51,180,136,
+Preeti Sharma,20,72,161,144,
+Ravi Menon,4,33,131,120,
+Alok Malhotra,56,67,157,122,
+Preeti Rao,59,65,170,131,
+Sandeep Kulkarni,78,57,167,147,
+Neha Rao,87,50,149,119,
+Ajay Chatterjee,78,59,145,90,
+Arun Bose,65,55,163,136,
+Indira Reddy,88,54,147,125,
+Shankar Sharma,30,60,166,127,
+Indira Verma,45,55,173,109,
+Nisha Aggarwal,20,82,157,132,
+Rohit Verma,30,70,152,135,
+Neha Aggarwal,48,51,157,128,
+Vikas Mishra,57,73,165,136,
+Kiran Banerjee,37,64,153,133,
+Rohit Joshi,32,52,168,108,
+Preeti Reddy,1,17,132,147,
+Vikas Banerjee,52,55,164,96,
+Sandeep Verma,26,59,180,116,
+Sunita Menon,38,69,167,142,
+Arjun Kohli,12,18,135,117,
+Rakesh Desai,3,30,123,110,
+Arjun Nair,76,45,161,138,
+Kiran Iyer,5,39,109,143,
+Neha Reddy,88,58,154,92,
+Lakshmi Yadav,58,59,154,110,
+Anjali Mishra,46,73,151,147,
+Neha Kulkarni,69,61,163,91,
+Sudha Reddy,68,79,152,97,
+Sandeep Mishra,70,73,165,145,
+Suman Das,61,75,161,132,
+Alok Singh,56,62,176,128,
+Anita Nair,33,68,158,158,
+Manoj Yadav,82,60,143,134,
+Kavita Mishra,81,76,151,118,
+Abhinav Mishra,32,52,171,145,
+Alok Nair,88,75,147,118,
+Bhavana Pillai,58,75,150,104,
+Indira Singh,75,75,160,137,
+Rohit Patel,60,54,150,95,
+Kavita Das,22,71,151,103,
+Meena Kulkarni,73,76,169,99,
+Ramesh Iyer,5,17,111,150,
+Vijay Desai,53,62,174,100,
+Neha Pillai,59,72,160,141,
+Sunita Rao,16,65,168,149,
+Kavita Nath,8,30,99,125,
+Ajay Malhotra,53,73,157,129,
+Vijay Chopra,84,63,160,150,
+Indira Verma,7,32,120,156,
+Indira Malhotra,4,17,95,137,
+Kiran Menon,72,74,149,107,
+Meena Pillai,7,32,105,150,
+Amit Nair,16,43,133,113,
+Deepak Nair,29,80,155,115,
+Alok Malhotra,32,53,169,121,
+Rajesh Gupta,40,66,173,144,
+Ramesh Aggarwal,8,38,92,133,
+Sandeep Aggarwal,16,49,130,160,
+Ramesh Das,89,46,156,109,
+Suman Menon,19,79,171,135,
+Arjun Nath,82,58,155,116,
+Priya Das,80,73,159,110,
+Swati Kohli,63,48,164,111,
+Abhinav Sharma,20,74,158,104,
+Sudha Reddy,9,23,95,126,
+Preeti Kohli,87,53,150,115,
